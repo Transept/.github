@@ -21,6 +21,8 @@ Beyond behing open source Transept also follows a set of philosiphies to allow f
 4. Common Design. Use similar UI experences to allow for an easy transition between tools.
 5. Interoperability. All software should try to share common standard file formats as often as possible
 6. Privacy/Secuirty is Configurable. All data should be designed to allow for the highest security and privacy settings by default and should be configurable by a church to meet the need of their congregation
+8. Logical Versioning. Version numbers should be easy to understand for the non-technical user.
+9. Easy to Learn, Hard to Master. All applications/features should be easy to get started with for non-technical users but have a depth of funtionality to allow power users to do wonderful things
 
 
 
